@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "736168023014",
+    "project_id": "integradora-dam",
+    "storage_bucket": "integradora-dam.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736168023014:android:5754e3ad3b49b4a1adfc27",
+        "android_client_info": {
+          "package_name": "mx.edu.utez"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_HrxfQurxuk_hzBHpspU3wGsytrTKL5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736168023014:android:0fc350b3aa8e6931adfc27",
+        "android_client_info": {
+          "package_name": "mx.edu.utez.proyectointegrador"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_HrxfQurxuk_hzBHpspU3wGsytrTKL5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

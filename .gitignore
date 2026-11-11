@@ -13,3 +13,12 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# Claves privadas
+service-account*.json
+*.jks
+*.keystore
+
+# Variables de entorno
+.env
+.env.*
